@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WordleJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WordleJava_jar</output-path>
+    <root id="archive" name="WordleJava.jar">
+      <element id="module-output" name="WordleJava" />
+    </root>
+  </artifact>
+</component>
